@@ -1,0 +1,10 @@
+E:\xamarin\PullToRefresharp-master\samples\Sample.Android\obj\Debug\assemblies\PullToRefresharp.Android.dll
+E:\xamarin\PullToRefresharp-master\samples\Sample.Android\obj\Debug\assemblies\Mono.Android.dll
+E:\xamarin\PullToRefresharp-master\samples\Sample.Android\obj\Debug\assemblies\mscorlib.dll
+E:\xamarin\PullToRefresharp-master\samples\Sample.Android\obj\Debug\assemblies\PullToRefresharp.dll
+E:\xamarin\PullToRefresharp-master\samples\Sample.Android\obj\Debug\assemblies\System.Core.dll
+E:\xamarin\PullToRefresharp-master\samples\Sample.Android\obj\Debug\assemblies\System.dll
+E:\xamarin\PullToRefresharp-master\samples\Sample.Android\obj\Debug\assemblies\System.Xml.dll
+E:\xamarin\PullToRefresharp-master\samples\Sample.Android\obj\Debug\assemblies\Xamarin.Android.Support.v4.dll
+E:\xamarin\PullToRefresharp-master\samples\Sample.Android\obj\Debug\assemblies\System.Runtime.Serialization.dll
+E:\xamarin\PullToRefresharp-master\samples\Sample.Android\obj\Debug\assemblies\System.ServiceModel.Internals.dll

@@ -1,0 +1,1 @@
+<TextView android:background="@drawable/rounded_rect" android:layout_width="match_parent" android:layout_height="wrap_content" android:gravity="center" android:singleLine="true" android:textSize="16sp" android:textColor="@android:color/black" android:padding="10dp" xmlns:android="http://schemas.android.com/apk/res/android" />

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>E:\xamarin\PullToRefresharp-master\samples\Sample.Android\obj\Release\__library_projects__\PullToRefresharp\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>E:\xamarin\PullToRefresharp-master\samples\Sample.Android\obj\Release\__library_projects__\PullToRefresharp\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>E:\xamarin\PullToRefresharp-master\samples\Sample.Android\obj\Release\__library_projects__\PullToRefresharp.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>
